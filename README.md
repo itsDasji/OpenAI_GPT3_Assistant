@@ -1,2 +1,2 @@
-# OpenAI_GPT3_Assistant
-An assistant powered by OpenAI ChatGPT3
+# AI Assistant
+An AI assistant powered by OpenAI ChatGPT3
